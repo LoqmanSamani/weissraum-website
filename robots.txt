@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://weissraum-gebaeudeservice.de/sitemap.xml
