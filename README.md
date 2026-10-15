@@ -17,7 +17,9 @@ Preview locally: `python3 -m http.server 8765 --bind 127.0.0.1` in this folder ‚
 The contact form does not send anything itself: it opens the visitor's email program with
 a prepared message to info@weissraum-gebaeudeservice.de.
 
-## To update later
+## To update later (after the legal steps are complete)
+
+- [ ] Google Business Profile ("Geb√§udereinigung Ludwigsburg"), profile picture `marketing/logo/app-icon-512.png`, link to the website.
 
 - [ ] "Unser Standard": show the hidden cards (Handwerkskammer, Betriebshaftpflicht, BG BAU)
       in `index.html` once they exist (search for `TODO einblenden`).
