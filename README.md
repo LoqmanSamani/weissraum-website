@@ -21,7 +21,7 @@ a prepared message to info@weissraum-gebaeudeservice.de.
 
 - [ ] Google Business Profile ("Gebäudereinigung Ludwigsburg"), profile picture `marketing/logo/app-icon-512.png`, link to the website.
 
-- [ ] "Unser Standard": show the hidden cards (Handwerkskammer, Betriebshaftpflicht, BG BAU)
+- [ ] "Unser Standard": show the hidden cards (Handwerkskammer, Betriebshaftpflicht; BG BAU shown 14.11.2026)
       in `index.html` once they exist (search for `TODO einblenden`).
 - [ ] Replace the Unsplash photos with own photos of real jobs (keep credits in footer + Impressum if not).
 - [ ] Customer quotes once there are clients.
